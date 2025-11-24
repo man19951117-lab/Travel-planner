@@ -1,2 +1,2 @@
 # Travel-planner
-Gemini travel
+Gemini travel v6
