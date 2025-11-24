@@ -1,2 +1,2 @@
 # Travel-planner
-Ai travel
+Gemini travel
